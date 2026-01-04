@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13eaf9ab90912a24dbd1dbf653ee15df, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  itemName: "Yeni E\u015Fya"
+  itemType: 0
+  itemDescription: "Bu e\u015Fya hakk\u0131nda bilgi."
+  itemIcon: {fileID: 21300000, guid: 84bd4c56549e9e84292e74cac09c7718, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  value: 0
+  equipSlot: 0
+  damageBonus: 0
+  armorBonus: 0
+  itemPrefab: {fileID: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
+  rotationOffset: {x: 0, y: 0, z: 0}

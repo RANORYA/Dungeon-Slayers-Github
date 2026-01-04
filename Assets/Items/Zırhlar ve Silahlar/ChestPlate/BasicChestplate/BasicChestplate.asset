@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13eaf9ab90912a24dbd1dbf653ee15df, type: 3}
+  m_Name: BasicChestplate
+  m_EditorClassIdentifier: 
+  itemName: ChestPlate
+  itemType: 2
+  itemDescription: "Bu e\u015Fya hakk\u0131nda bilgi."
+  itemIcon: {fileID: 21300000, guid: 4221027ae46d2344b93ce5e54dbe0163, type: 3}
+  isStackable: 0
+  maxStackSize: 1
+  value: 0
+  equipSlot: 1
+  hiddenBodyParts: 
+  damageBonus: 0
+  armorBonus: 10
+  itemPrefab: {fileID: 2427894154299283537, guid: 64ca66afcfad1f946bb72dbb3f9c45ef,
+    type: 3}
+  positionOffset: {x: 0, y: 0, z: 0}
+  rotationOffset: {x: 0, y: 0, z: 0}
+  scaleOffset: {x: 1, y: 1, z: 1}
