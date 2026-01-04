@@ -26,7 +26,7 @@
 
 ## 📖 About The Game
 
-Dungeon Slayer is a 3D Action-RPG game designed specifically for mobile devices. Its purpose is to test skills in Unity and C programming and build a portfolio. It is actively under development.
+Dungeon Slayer is a 3D Action-RPG game designed specifically for mobile devices. Its purpose is to test my skills in Unity and C programming and build a portfolio. It is actively under development.
 
 ### ✨ Key Features
 
