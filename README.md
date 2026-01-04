@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/05d93062-19cb-40b5-b391-7cadc79c1267" alt="Game Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/fc3a0f1c-c056-45e5-aff9-89fa80151668" width="100%">
 
   <br>
 
