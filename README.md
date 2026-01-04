@@ -65,7 +65,7 @@ This project demonstrates advanced Unity development skills:
 *for developers:*
 
 1.  Clone the repo: `git clone https://github.com/RANORYA/Dungeon-Slayers-Github`
-2.  Open in **Unity Hub** (Version 2022.3 or later).
+2.  Open in **Unity Hub**.
 3.  Build for Android/iOS.
 
 ---
