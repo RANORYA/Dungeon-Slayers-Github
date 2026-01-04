@@ -26,9 +26,7 @@
 
 ## 📖 About The Game
 
-Dungeon Slayer is a 3D Action-RPG designed specifically for mobile devices. The goal was to bring the depth of PC role-playing games to the palm of your hand. 
-
-In this project, I focused on creating a robust architecture that handles complex RPG systems like inventory management, stats, and real-time combat while maintaining high performance on mobile hardware.
+Dungeon Slayer is a 3D Action-RPG game designed specifically for mobile devices. Its purpose is to test skills in Unity and C programming and build a portfolio. It is actively under development.
 
 ### ✨ Key Features
 
@@ -37,7 +35,7 @@ In this project, I focused on creating a robust architecture that handles comple
     * Item equipping, stacking, and consumption mechanics.
     * Dynamic UI that updates in real-time.
 * **📱 Optimized Mobile Controls:** Touch-responsive joystick and action buttons designed for smooth navigation.
-* **🌲 Immersive 3D World:** Optimized lighting and level design for mobile rendering pipelines.
+
 
 ---
 
