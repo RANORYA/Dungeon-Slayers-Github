@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/b280ab3c-a993-40b0-a8ec-c54286391196" alt="Game Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/05d93062-19cb-40b5-b391-7cadc79c1267" alt="Game Banner" width="100%">
 
   <br>
 
@@ -18,7 +18,7 @@
 
   <br>
 
-  <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/05d93062-19cb-40b5-b391-7cadc79c1267" />
+  <img src="https://github.com/user-attachments/assets/b280ab3c-a993-40b0-a8ec-c54286391196" alt="Gameplay Demo" width="600">
 
 </div>
 
@@ -66,7 +66,7 @@ This project demonstrates advanced Unity development skills:
 
 *for developers:*
 
-1.  Clone the repo: `git clone https://github.com/username/project-name.git`
+1.  Clone the repo: `git clone https://github.com/RANORYA/Dungeon-Slayers-Github`
 2.  Open in **Unity Hub** (Version 2022.3 or later).
 3.  Build for Android/iOS.
 
