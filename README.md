@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="[BURAYA_BANNER_RESIM_LINKI_GELECEK.png]" alt="Game Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/b280ab3c-a993-40b0-a8ec-c54286391196" alt="Game Banner" width="100%">
 
   <br>
 
-  <h1>⚔️ [GAME NAME HERE] 🛡️</h1>
+  <h1>⚔️ Dungeon Slayer🛡️</h1>
 
   <p>
     <strong>A classic RPG experience reimagined for mobile. Built with Unity 3D.</strong>
@@ -18,7 +18,7 @@
 
   <br>
 
-  <img src="[BURAYA_GAMEPLAY_GIF_LINKI_GELECEK.gif]" alt="Gameplay Demo" width="600">
+  <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/05d93062-19cb-40b5-b391-7cadc79c1267" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ## 📖 About The Game
 
-**[GAME NAME]** is a 3D Action-RPG designed specifically for mobile devices. The goal was to bring the depth of PC role-playing games to the palm of your hand. 
+Dungeon Slayer is a 3D Action-RPG designed specifically for mobile devices. The goal was to bring the depth of PC role-playing games to the palm of your hand. 
 
 In this project, I focused on creating a robust architecture that handles complex RPG systems like inventory management, stats, and real-time combat while maintaining high performance on mobile hardware.
 
@@ -46,7 +46,7 @@ In this project, I focused on creating a robust architecture that handles comple
 | **Inventory System** | **Combat & Exploration** |
 |:---:|:---:|
 | | |
-| <img src="[BURAYA_ENVANTER_SS_LINKI.png]" width="300"> | <img src="[BURAYA_OYUN_ICI_SS_LINKI.png]" width="300"> |
+| <img src="https://github.com/user-attachments/assets/a6b06ad0-2eed-49af-8dca-e0a8356e5178" width="300"> | <img src="https://github.com/user-attachments/assets/7c171614-1a61-4373-b581-1981a2ea40c0" width="300"> |
 | *Complex UI handling item data* | *Real-time action gameplay* |
 
 ---
@@ -64,23 +64,19 @@ This project demonstrates advanced Unity development skills:
 
 ## 🎮 How to Play (Installation)
 
-1.  Go to the [Releases] page (if APK is available).
-2.  Download the `.apk` file to your Android device.
-3.  Install and enjoy!
-
-*Or for developers:*
+*for developers:*
 
 1.  Clone the repo: `git clone https://github.com/username/project-name.git`
-2.  Open in **Unity Hub** (Version 2021.3 or later).
+2.  Open in **Unity Hub** (Version 2022.3 or later).
 3.  Build for Android/iOS.
 
 ---
 
 <div align="center">
   
-  **Developed by [SENİN ADIN]**
+  **Developed by RANORYA**
   
-  <a href="https://linkedin.com/in/senin-profilin">
+  <a href="https://www.linkedin.com/in/abdullahs%C3%B6ylemez/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
   
